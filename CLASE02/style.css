@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body {
+   font-family: 'Oswald', sans-serif;
+  min-height: 75rem;
+  padding-top: 4.5rem;
+    background: #C1C1FB;
+}
+
+#carouselExampleControls {
+    padding-top: 10rem;
+}
